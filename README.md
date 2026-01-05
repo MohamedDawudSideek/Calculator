@@ -9,5 +9,4 @@ A simple calculator app
 * HTML5
 * CSS3
 
-Visit this site - https://sanvidurath.github.io/calculator-App/
 
